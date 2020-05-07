@@ -29,6 +29,7 @@ This lab will walk you through OAX and we will be analyzing financial data from 
 -	Once receiving access to your OAX environment, click on **‘Oracle SSO’** to sign in using your SSO credentials. 
 
 -	**Type in SSO**
+![](./images/SSO.png " ")
 
 ## Part X. Navigating Through OAX Environment
 
